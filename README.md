@@ -7,9 +7,7 @@
 - [一录清个人版](docs/personal/README.md)
 - [一录清企业版](docs/enterprise/README.md)
 
-安装程序只作为 GitHub Release assets 上传。本仓库不保存应用源码、数据库、附件、API Key、授权配置或构建缓存。
-
-GitHub 自动显示的 `Source code (zip)` 和 `Source code (tar.gz)` 仅是本“发布说明仓库”的文档快照，不是一录清个人版或企业版的应用源码。
+安装程序只作为 GitHub Release assets 提供。请在 Release 页面查看安装说明、校验值和版本变化。
 
 请在 [Releases](https://github.com/kevinchensd/elogsync-release/releases) 选择需要的版本下载。两个产品使用独立 tag：
 
@@ -25,9 +23,7 @@ This repository is the public download and release-notes home for ELogSync produ
 - [ELogSync Personal](docs/personal/README.md)
 - [ELogSync Enterprise](docs/enterprise/README.md)
 
-Installers are uploaded only as GitHub Release assets. This repository does not contain application source code, databases, attachments, API keys, license configuration, or build caches.
-
-The automatic `Source code (zip)` and `Source code (tar.gz)` links shown by GitHub are snapshots of this documentation-only repository. They are not ELogSync Personal or Enterprise application source code.
+Installers are available only as GitHub Release assets. Use each Release page for installation guidance, checksums, and version changes.
 
 Use [Releases](https://github.com/kevinchensd/elogsync-release/releases) to download a specific version. Product tags use separate namespaces:
 

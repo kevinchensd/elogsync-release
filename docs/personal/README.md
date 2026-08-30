@@ -13,7 +13,7 @@
 
 请通过[个人版版本索引](release-index.md)选择需要的版本。升级前，请在 **系统配置 → 备份与恢复** 创建完整本机备份。
 
-个人版安装器和发布说明可公开下载；本分发仓库不保存个人版应用源码。
+个人版安装器和发布说明可在本仓库的 Release 页面查看和下载。
 
 ## English
 
@@ -28,4 +28,4 @@ ELogSync Personal is the local desktop edition for one user's business memory an
 
 Use the [Personal release index](release-index.md) to choose a version. Before upgrading, create a full local backup from **System Settings → Backup & Restore**.
 
-Personal installers and release notes are public; Personal application source code is not stored in this distribution repository.
+Personal installers and release notes are available from this repository's Release pages.
