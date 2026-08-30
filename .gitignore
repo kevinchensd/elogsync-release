@@ -1,0 +1,8 @@
+# Release binaries belong only in GitHub Release assets, never in this repository.
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.app
+*.zip
+*.tar.gz
