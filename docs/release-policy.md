@@ -8,6 +8,8 @@ Allowed Git content is limited to public release documentation: product download
 
 Never commit or upload application source code, databases, user attachments, API keys, license configuration, user configuration, crash dumps, or build caches.
 
+All user-facing download guidance, release indexes, and release notes must be bilingual in Simplified Chinese and English, with Chinese presented first.
+
 ## Tags and releases
 
 Use one product-prefixed tag for every public release:
