@@ -1,8 +1,8 @@
-# Release distribution policy
+# ELogSync Personal release distribution policy
 
 ## Scope
 
-`kevinchensd/elogsync-release` is the only public GitHub Release repository for ELogSync Personal and ELogSync Enterprise.
+This branch is the public GitHub Release entry for ELogSync Personal.
 
 Public documentation is limited to product download pages, release indexes, release notes, and this policy. Installer files are uploaded only as GitHub Release assets.
 
@@ -12,12 +12,11 @@ All user-facing download guidance, release indexes, and release notes must be bi
 
 ## Tags and releases
 
-Use one product-prefixed tag for every public release:
+Use the Personal-prefixed tag for every public release:
 
 | Product | Tag format | Release title |
 | --- | --- | --- |
 | Personal | `personal-v<version>` | `ELogSync Personal v<version>` |
-| Enterprise | `enterprise-v<version>` | `ELogSync Enterprise v<version>` |
 
 The distribution tag identifies one public release record.
 
@@ -28,8 +27,6 @@ Asset names use the following form:
 ```text
 ELogSync-Personal-v<version>-windows-x64-setup.exe
 ELogSync-Personal-v<version>-macos-universal.dmg
-ELogSync-Enterprise-v<version>-windows-x64-setup.exe
-ELogSync-Enterprise-v<version>-macos-arm64.dmg
 ```
 
 Publish only installers that passed their product's local build, installation, launch, exit, and data-retention checks. A release note must state each asset's SHA-256, supported platform, installer type, stability, changes, upgrade/backup reminder, and known limitations.
@@ -38,4 +35,4 @@ Publish only installers that passed their product's local build, installation, l
 
 - Mark a release stable only after its product's final acceptance and installer regression pass.
 - Mark testing builds as pre-releases, with the test purpose and limitations stated in both Chinese and English.
-- Keep Personal and Enterprise version indexes separate even when their version numbers coincide.
+- Keep the Personal version index and release notes under `docs/personal/`.
