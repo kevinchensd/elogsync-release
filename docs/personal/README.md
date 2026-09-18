@@ -11,9 +11,9 @@ ELogSync Personal is the local desktop edition for one user's business memory an
 | Windows x64 | NSIS current-user installer |
 | macOS | Reserved for future notarized installer releases |
 
-Use the [Personal release index](release-index.md) to choose a version. Before upgrading, create a full local backup from **System Settings → Backup & Restore**.
+Use the [Personal release index](release-index.md) to choose a version. Before upgrading, create a full local backup from **System Settings -> Backup & Restore**.
 
-Personal installers and release notes are available from this repository's Release pages.
+Personal installers and release notes are published to the `personal-v<version>` GitHub Releases in `kevinchensd/elogsync-release`.
 
 ## 简体中文
 
@@ -26,6 +26,6 @@ Personal installers and release notes are available from this repository's Relea
 | Windows x64 | NSIS 当前用户安装器 |
 | macOS | 预留给后续完成公证验证的安装器 |
 
-请通过[个人版版本索引](release-index.md)选择需要的版本。升级前，请在 **系统配置 → 备份与恢复** 创建完整本机备份。
+请通过[个人版版本索引](release-index.md)选择需要的版本。升级前，请在 **系统配置 -> 备份与恢复** 创建完整本机备份。
 
-个人版安装器和发布说明可在本仓库的 Release 页面查看和下载。
+个人版安装器和发布说明发布到 `kevinchensd/elogsync-release` 中带有 `personal-v<版本号>` 的 GitHub Release。
