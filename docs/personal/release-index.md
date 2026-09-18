@@ -4,11 +4,11 @@
 
 | Version | Status | Platforms | Database schema upgrade | Release |
 | --- | --- | --- | --- | --- |
-| v0.1.20 | Stable | Windows x64 NSIS | Yes | `personal-v0.1.20` |
-| v0.1.19 | Stable | Windows x64 NSIS | No | `personal-v0.1.19` |
-| v0.1.18 | Stable | Windows x64 NSIS | Yes | `personal-v0.1.18` |
-| v0.1.15 | Stable | Windows x64 NSIS | No | `personal-v0.1.15` |
-| v0.1.10 | Stable | Windows x64 NSIS | Yes | `personal-v0.1.10` |
+| v0.1.20 | Stable | Windows x64 NSIS | Yes | [Download and release notes](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.20) |
+| v0.1.19 | Stable | Windows x64 NSIS | No | [Download and release notes](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.19) |
+| v0.1.18 | Stable | Windows x64 NSIS | Yes | [Download and release notes](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.18) |
+| v0.1.15 | Stable | Windows x64 NSIS | No | [Download and release notes](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.15) |
+| v0.1.10 | Stable | Windows x64 NSIS | Yes | [Download and release notes](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.10) |
 
 ### Upgrade guidance
 
@@ -18,11 +18,11 @@ If a release has no database schema upgrade, it can be installed directly across
 
 | 版本 | 状态 | 平台 | 是否有数据库结构升级 | 发布 Tag |
 | --- | --- | --- | --- | --- |
-| v0.1.20 | 正式版 | Windows x64 NSIS | 有 | `personal-v0.1.20` |
-| v0.1.19 | 正式版 | Windows x64 NSIS | 无 | `personal-v0.1.19` |
-| v0.1.18 | 正式版 | Windows x64 NSIS | 有 | `personal-v0.1.18` |
-| v0.1.15 | 正式版 | Windows x64 NSIS | 无 | `personal-v0.1.15` |
-| v0.1.10 | 正式版 | Windows x64 NSIS | 有 | `personal-v0.1.10` |
+| v0.1.20 | 正式版 | Windows x64 NSIS | 有 | [下载与说明](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.20) |
+| v0.1.19 | 正式版 | Windows x64 NSIS | 无 | [下载与说明](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.19) |
+| v0.1.18 | 正式版 | Windows x64 NSIS | 有 | [下载与说明](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.18) |
+| v0.1.15 | 正式版 | Windows x64 NSIS | 无 | [下载与说明](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.15) |
+| v0.1.10 | 正式版 | Windows x64 NSIS | 有 | [下载与说明](https://github.com/kevinchensd/elogsync-release/releases/tag/personal-v0.1.10) |
 
 ### 升级说明
 
