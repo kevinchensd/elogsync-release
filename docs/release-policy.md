@@ -4,11 +4,11 @@
 
 This branch is the public GitHub Release entry for ELogSync Personal.
 
-Public documentation is limited to product download pages, release indexes, release notes, and this policy. Installer files are uploaded only as GitHub Release assets.
+Public documentation includes product download pages, release indexes, release notes, this policy, and optional Personal reference-data guides and download lists. Country-specific administrative-division XLSX files are published only under `docs/personal/administrative-divisions/data/`; no application source or unrelated project files are included. Installer files are uploaded only as GitHub Release assets.
 
 Never commit or upload databases, user attachments, API keys, license configuration, user configuration, crash dumps, or build caches.
 
-All user-facing download guidance, release indexes, and release notes must be bilingual in Simplified Chinese and English, with Chinese presented first.
+All user-facing download guidance, release indexes, release notes, and optional reference-data guides and download lists must be bilingual in Simplified Chinese and English, with English presented first and the Chinese content equivalent.
 
 ## Tags and releases
 
