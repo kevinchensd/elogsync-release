@@ -29,8 +29,3 @@ Personal installers and release notes are published to the `personal-v<version>`
 请通过[个人版版本索引](release-index.md)选择需要的版本。升级前，请在 **系统配置 -> 备份与恢复** 创建完整本机备份。
 
 个人版安装器和发布说明发布到 `kevinchensd/elogsync-release` 中带有 `personal-v<版本号>` 的 GitHub Release。
-### Administrative division data / 国家行政区划数据
-
-Download country-specific XLSX reference data from the [administrative division guide](administrative-divisions/README.md).
-
-通过[国家行政区划数据说明](administrative-divisions/README.md)下载按国家提供的 XLSX 业务参考数据。
